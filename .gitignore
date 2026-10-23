@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Model checkpoints (--save_to)
+*.pth
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

@@ -1,0 +1,598 @@
+INFO:root:T: 500	Ep: 1	Rew: -44.31775933435128	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 1000	Ep: 2	Rew: -27.6212892285076	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 1500	Ep: 3	Rew: -15.773164283756435	Shield: 11	ShieldSteps: 11	Len: 500	Unsafe: 0
+INFO:root:T: 2000	Ep: 4	Rew: -40.42575264229283	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 2500	Ep: 5	Rew: -12.716186812738897	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 3000	Ep: 6	Rew: -17.71742144998646	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 3500	Ep: 7	Rew: -40.75982469211259	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 4000	Ep: 8	Rew: -46.83273471694669	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 4500	Ep: 9	Rew: -14.581912858577956	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 5000	Ep: 10	Rew: -33.51841156058165	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 5500	Ep: 11	Rew: -11.209863259228886	Shield: 4	ShieldSteps: 4	Len: 500	Unsafe: 0
+INFO:root:T: 6000	Ep: 12	Rew: -15.194983312366535	Shield: 11	ShieldSteps: 11	Len: 500	Unsafe: 0
+INFO:root:T: 6500	Ep: 13	Rew: -36.82959476099642	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 7000	Ep: 14	Rew: -45.07532570113325	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 7500	Ep: 15	Rew: -42.08303582182052	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 8000	Ep: 16	Rew: -23.186138064261332	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 8500	Ep: 17	Rew: -18.221167082160832	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 9000	Ep: 18	Rew: -34.7219725265837	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 9500	Ep: 19	Rew: -18.63606395959573	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 10000	Ep: 20	Rew: -44.78086476456215	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 10500	Ep: 21	Rew: -11.399672253768696	Shield: 3	ShieldSteps: 3	Len: 500	Unsafe: 0
+INFO:root:T: 11000	Ep: 22	Rew: -33.246147870065506	Shield: 7	ShieldSteps: 7	Len: 500	Unsafe: 0
+INFO:root:T: 11500	Ep: 23	Rew: -19.63848049050617	Shield: 11	ShieldSteps: 11	Len: 500	Unsafe: 0
+INFO:root:T: 12000	Ep: 24	Rew: -16.92226797561652	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 12500	Ep: 25	Rew: -25.40365700797429	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 13000	Ep: 26	Rew: -9.258883929460648	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 13500	Ep: 27	Rew: -34.4736287677515	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 14000	Ep: 28	Rew: -27.20358087238621	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 14500	Ep: 29	Rew: -33.45439302443896	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 15000	Ep: 30	Rew: -12.971476515822646	Shield: 3	ShieldSteps: 3	Len: 500	Unsafe: 0
+INFO:root:T: 15500	Ep: 31	Rew: -12.84699415239709	Shield: 18	ShieldSteps: 18	Len: 500	Unsafe: 0
+INFO:root:T: 16000	Ep: 32	Rew: -21.01244038593615	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 16500	Ep: 33	Rew: -18.833874807684534	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 17000	Ep: 34	Rew: -13.253265727223805	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 17500	Ep: 35	Rew: -38.05766486190297	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 18000	Ep: 36	Rew: -21.171802433906578	Shield: 1	ShieldSteps: 1	Len: 500	Unsafe: 0
+INFO:root:T: 18500	Ep: 37	Rew: -16.29693849019111	Shield: 7	ShieldSteps: 7	Len: 500	Unsafe: 0
+INFO:root:T: 19000	Ep: 38	Rew: -11.28057440184963	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 19500	Ep: 39	Rew: -32.393731228932474	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 20000	Ep: 40	Rew: -49.23805420360467	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 20500	Ep: 41	Rew: -11.95751500305169	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 21000	Ep: 42	Rew: -15.421560356611423	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 21500	Ep: 43	Rew: -33.286928221915964	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 22000	Ep: 44	Rew: -4.6165672146500425	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 22500	Ep: 45	Rew: -42.97568874000898	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 23000	Ep: 46	Rew: -35.302812908711516	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 23500	Ep: 47	Rew: -26.763102673265788	Shield: 4	ShieldSteps: 4	Len: 500	Unsafe: 0
+INFO:root:T: 24000	Ep: 48	Rew: -11.852731095147126	Shield: 4	ShieldSteps: 4	Len: 500	Unsafe: 0
+INFO:root:T: 24500	Ep: 49	Rew: -32.68860351863602	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 25000	Ep: 50	Rew: -22.973816775285577	Shield: 2	ShieldSteps: 2	Len: 500	Unsafe: 0
+INFO:root:T: 25500	Ep: 51	Rew: -7.460860079982379	Shield: 0	ShieldSteps: 0	Len: 500	Unsafe: 0
+INFO:root:T: 26000	Ep: 52	Rew: -1.2439697639495189	Shield: 133	ShieldSteps: 133	Len: 500	Unsafe: 0
+INFO:root:T: 26500	Ep: 53	Rew: -1.1122613383346331	Shield: 345	ShieldSteps: 345	Len: 500	Unsafe: 0
+INFO:root:T: 27000	Ep: 54	Rew: -1.2073916537365597	Shield: 361	ShieldSteps: 361	Len: 500	Unsafe: 0
+INFO:root:T: 27500	Ep: 55	Rew: -1.2093103233912703	Shield: 335	ShieldSteps: 335	Len: 500	Unsafe: 0
+INFO:root:T: 28000	Ep: 56	Rew: -1.2054461154104976	Shield: 339	ShieldSteps: 339	Len: 500	Unsafe: 0
+INFO:root:T: 28500	Ep: 57	Rew: -1.208128375740399	Shield: 331	ShieldSteps: 331	Len: 500	Unsafe: 0
+INFO:root:T: 29000	Ep: 58	Rew: -1.206435033614489	Shield: 284	ShieldSteps: 284	Len: 500	Unsafe: 0
+INFO:root:T: 29500	Ep: 59	Rew: -1.2161242263759473	Shield: 289	ShieldSteps: 289	Len: 500	Unsafe: 0
+INFO:root:T: 30000	Ep: 60	Rew: 0.16021839506199353	Shield: 28	ShieldSteps: 28	Len: 500	Unsafe: 0
+INFO:root:T: 30500	Ep: 61	Rew: -1.2064260483159772	Shield: 322	ShieldSteps: 322	Len: 500	Unsafe: 0
+INFO:root:T: 31000	Ep: 62	Rew: -1.2358119921578716	Shield: 310	ShieldSteps: 310	Len: 500	Unsafe: 0
+INFO:root:T: 31500	Ep: 63	Rew: -1.210653630848118	Shield: 300	ShieldSteps: 300	Len: 500	Unsafe: 0
+INFO:root:T: 32000	Ep: 64	Rew: -1.2075985066341122	Shield: 341	ShieldSteps: 341	Len: 500	Unsafe: 0
+INFO:root:T: 32500	Ep: 65	Rew: -1.2097577645877655	Shield: 235	ShieldSteps: 235	Len: 500	Unsafe: 0
+INFO:root:T: 33000	Ep: 66	Rew: -1.2111960367656573	Shield: 330	ShieldSteps: 330	Len: 500	Unsafe: 0
+INFO:root:T: 33500	Ep: 67	Rew: -1.1288881555965873	Shield: 168	ShieldSteps: 168	Len: 500	Unsafe: 0
+INFO:root:T: 34000	Ep: 68	Rew: -1.195526160644933	Shield: 252	ShieldSteps: 252	Len: 500	Unsafe: 0
+INFO:root:T: 34500	Ep: 69	Rew: -1.2154960818552245	Shield: 329	ShieldSteps: 329	Len: 500	Unsafe: 0
+INFO:root:T: 35000	Ep: 70	Rew: -1.2131392102363154	Shield: 277	ShieldSteps: 277	Len: 500	Unsafe: 0
+INFO:root:T: 35500	Ep: 71	Rew: -1.2206353458792696	Shield: 229	ShieldSteps: 229	Len: 500	Unsafe: 0
+INFO:root:T: 36000	Ep: 72	Rew: -1.2082631385352471	Shield: 339	ShieldSteps: 339	Len: 500	Unsafe: 0
+INFO:root:T: 36500	Ep: 73	Rew: -1.1949347076013332	Shield: 257	ShieldSteps: 257	Len: 500	Unsafe: 0
+INFO:root:T: 37000	Ep: 74	Rew: -1.2147606823044341	Shield: 288	ShieldSteps: 288	Len: 500	Unsafe: 0
+INFO:root:T: 37500	Ep: 75	Rew: -1.15318799642572	Shield: 282	ShieldSteps: 282	Len: 500	Unsafe: 0
+INFO:root:T: 38000	Ep: 76	Rew: -1.211059930602889	Shield: 339	ShieldSteps: 339	Len: 500	Unsafe: 0
+INFO:root:T: 38500	Ep: 77	Rew: -1.2158098392491519	Shield: 321	ShieldSteps: 321	Len: 500	Unsafe: 0
+INFO:root:T: 39000	Ep: 78	Rew: -1.2084073325419311	Shield: 261	ShieldSteps: 261	Len: 500	Unsafe: 0
+INFO:root:T: 39500	Ep: 79	Rew: -1.2106979796894335	Shield: 303	ShieldSteps: 303	Len: 500	Unsafe: 0
+INFO:root:T: 40000	Ep: 80	Rew: -1.1842424285612185	Shield: 282	ShieldSteps: 282	Len: 500	Unsafe: 0
+INFO:root:EVAL: 40000	Ep: 81	Rew: -1.0858601324916008	Len: 500	Shield: 293	 Unsafe: 0	Time: 0.019196781399892643
+
+INFO:root:EVAL: 40000	Ep: 81	Rew: -1.216453703619841	Len: 500	Shield: 342	 Unsafe: 0	Time: 0.019962295200501103
+
+INFO:root:EVAL: 40000	Ep: 81	Rew: -1.210902115892017	Len: 500	Shield: 309	 Unsafe: 0	Time: 0.022846034400106872
+
+INFO:root:EVAL: 40000	Ep: 81	Rew: -1.2253241556031624	Len: 500	Shield: 321	 Unsafe: 0	Time: 0.024842856799717993
+
+INFO:root:EVAL: 40000	Ep: 81	Rew: -1.20778581915484	Len: 500	Shield: 335	 Unsafe: 0	Time: 0.02241992720036069
+
+INFO:root:EVAL: 40000	Ep: 81	Rew: -1.161548323519046	Len: 500	Shield: 276	 Unsafe: 0	Time: 0.021744715600158088
+
+INFO:root:EVAL: 40000	Ep: 81	Rew: -1.2170358121479374	Len: 500	Shield: 207	 Unsafe: 0	Time: 0.01448800199967809
+
+INFO:root:EVAL: 40000	Ep: 81	Rew: -1.246601155649367	Len: 500	Shield: 280	 Unsafe: 0	Time: 0.015424425999983215
+
+INFO:root:EVAL: 40000	Ep: 81	Rew: -1.1982391418130274	Len: 500	Shield: 338	 Unsafe: 0	Time: 0.020395750200666952
+
+INFO:root:EVAL: 40000	Ep: 81	Rew: -1.2078672958534662	Len: 500	Shield: 273	 Unsafe: 0	Time: 0.025557018199528103
+
+INFO:root:EVALAVG: 40000	Ep: 81	RewAvg: -1.1977617655744308	RewStd: 0.04251439490954488	Len: 500.0	Shield: 297.4	 Unsafe: 0.0	Time: 0.020687780700059374
+
+INFO:root:T: 40500	Ep: 81	Rew: -1.2132296999970267	Shield: 277	ShieldSteps: 277	Len: 500	Unsafe: 0
+INFO:root:T: 41000	Ep: 82	Rew: -1.212935220839742	Shield: 354	ShieldSteps: 354	Len: 500	Unsafe: 0
+INFO:root:T: 41500	Ep: 83	Rew: -1.187774460213393	Shield: 247	ShieldSteps: 247	Len: 500	Unsafe: 0
+INFO:root:T: 42000	Ep: 84	Rew: -1.2539225049124378	Shield: 330	ShieldSteps: 330	Len: 500	Unsafe: 0
+INFO:root:T: 42500	Ep: 85	Rew: -1.2079809560393546	Shield: 351	ShieldSteps: 351	Len: 500	Unsafe: 0
+INFO:root:T: 43000	Ep: 86	Rew: -1.2098153754108383	Shield: 380	ShieldSteps: 380	Len: 500	Unsafe: 0
+INFO:root:T: 43500	Ep: 87	Rew: -1.1599683600492912	Shield: 306	ShieldSteps: 306	Len: 500	Unsafe: 0
+INFO:root:T: 44000	Ep: 88	Rew: -1.1134858877945832	Shield: 317	ShieldSteps: 317	Len: 500	Unsafe: 0
+INFO:root:T: 44500	Ep: 89	Rew: -1.1765196853195377	Shield: 222	ShieldSteps: 222	Len: 500	Unsafe: 0
+INFO:root:T: 45000	Ep: 90	Rew: -1.18797932909803	Shield: 266	ShieldSteps: 266	Len: 500	Unsafe: 0
+INFO:root:T: 45500	Ep: 91	Rew: -1.1274475173368088	Shield: 287	ShieldSteps: 287	Len: 500	Unsafe: 0
+INFO:root:T: 46000	Ep: 92	Rew: -1.1545351822722643	Shield: 354	ShieldSteps: 354	Len: 500	Unsafe: 0
+INFO:root:T: 46500	Ep: 93	Rew: -1.1271906225274293	Shield: 304	ShieldSteps: 304	Len: 500	Unsafe: 0
+INFO:root:T: 47000	Ep: 94	Rew: -1.2076042029913259	Shield: 261	ShieldSteps: 261	Len: 500	Unsafe: 0
+INFO:root:T: 47500	Ep: 95	Rew: 0.07580525229505841	Shield: 8	ShieldSteps: 8	Len: 500	Unsafe: 0
+INFO:root:T: 48000	Ep: 96	Rew: -1.2093354408024009	Shield: 298	ShieldSteps: 298	Len: 500	Unsafe: 0
+INFO:root:T: 48500	Ep: 97	Rew: -1.2088639728551585	Shield: 336	ShieldSteps: 336	Len: 500	Unsafe: 0
+INFO:root:T: 49000	Ep: 98	Rew: -1.2469013870451198	Shield: 238	ShieldSteps: 238	Len: 500	Unsafe: 0
+INFO:root:T: 49500	Ep: 99	Rew: -1.209396697927229	Shield: 284	ShieldSteps: 284	Len: 500	Unsafe: 0
+INFO:root:T: 50000	Ep: 100	Rew: -1.2194865432128075	Shield: 259	ShieldSteps: 259	Len: 500	Unsafe: 0
+INFO:root:T: 50500	Ep: 101	Rew: -1.2359647654631785	Shield: 255	ShieldSteps: 255	Len: 500	Unsafe: 2
+INFO:root:T: 51000	Ep: 102	Rew: -1.2103348942438406	Shield: 282	ShieldSteps: 282	Len: 500	Unsafe: 0
+INFO:root:T: 51500	Ep: 103	Rew: -1.209779275118554	Shield: 275	ShieldSteps: 275	Len: 500	Unsafe: 0
+INFO:root:T: 52000	Ep: 104	Rew: 0.29356807032172894	Shield: 224	ShieldSteps: 224	Len: 500	Unsafe: 0
+INFO:root:T: 52500	Ep: 105	Rew: -1.209646286472638	Shield: 176	ShieldSteps: 176	Len: 500	Unsafe: 0
+INFO:root:T: 53000	Ep: 106	Rew: -1.2122028967960938	Shield: 313	ShieldSteps: 313	Len: 500	Unsafe: 0
+INFO:root:T: 53500	Ep: 107	Rew: -1.1965069061096192	Shield: 366	ShieldSteps: 366	Len: 500	Unsafe: 0
+INFO:root:T: 54000	Ep: 108	Rew: -1.2092699393729172	Shield: 342	ShieldSteps: 342	Len: 500	Unsafe: 0
+INFO:root:T: 54500	Ep: 109	Rew: -1.212791411466773	Shield: 364	ShieldSteps: 364	Len: 500	Unsafe: 0
+INFO:root:T: 55000	Ep: 110	Rew: -1.2088369934347398	Shield: 274	ShieldSteps: 274	Len: 500	Unsafe: 0
+INFO:root:T: 55500	Ep: 111	Rew: -1.2170314915171998	Shield: 315	ShieldSteps: 315	Len: 500	Unsafe: 0
+INFO:root:T: 56000	Ep: 112	Rew: -1.162742227734847	Shield: 348	ShieldSteps: 348	Len: 500	Unsafe: 0
+INFO:root:T: 56500	Ep: 113	Rew: -1.214208818197931	Shield: 292	ShieldSteps: 292	Len: 500	Unsafe: 0
+INFO:root:T: 57000	Ep: 114	Rew: -1.208639713862157	Shield: 182	ShieldSteps: 182	Len: 500	Unsafe: 0
+INFO:root:T: 57500	Ep: 115	Rew: -1.2515964156638792	Shield: 227	ShieldSteps: 227	Len: 500	Unsafe: 0
+INFO:root:T: 58000	Ep: 116	Rew: -1.2065900070170248	Shield: 305	ShieldSteps: 305	Len: 500	Unsafe: 0
+INFO:root:T: 58500	Ep: 117	Rew: -1.2138097089420765	Shield: 295	ShieldSteps: 295	Len: 500	Unsafe: 0
+INFO:root:T: 59000	Ep: 118	Rew: -1.2086100992193245	Shield: 217	ShieldSteps: 217	Len: 500	Unsafe: 0
+INFO:root:T: 59500	Ep: 119	Rew: -1.172824650751919	Shield: 304	ShieldSteps: 304	Len: 500	Unsafe: 0
+INFO:root:T: 60000	Ep: 120	Rew: -1.2073630098017203	Shield: 325	ShieldSteps: 325	Len: 500	Unsafe: 0
+INFO:root:EVAL: 60000	Ep: 121	Rew: -1.2078249796376752	Len: 500	Shield: 350	 Unsafe: 0	Time: 0.018776198799372652
+
+INFO:root:EVAL: 60000	Ep: 121	Rew: -1.259643708764046	Len: 500	Shield: 271	 Unsafe: 0	Time: 0.023751871999818833
+
+INFO:root:EVAL: 60000	Ep: 121	Rew: -1.218698575332994	Len: 500	Shield: 201	 Unsafe: 0	Time: 0.019989305599359797
+
+INFO:root:EVAL: 60000	Ep: 121	Rew: -1.2306576723302758	Len: 500	Shield: 279	 Unsafe: 0	Time: 0.026939585999236442
+
+INFO:root:EVAL: 60000	Ep: 121	Rew: -1.2118509559721637	Len: 500	Shield: 182	 Unsafe: 0	Time: 0.031941728200414216
+
+INFO:root:EVAL: 60000	Ep: 121	Rew: -1.2739604312182464	Len: 500	Shield: 241	 Unsafe: 0	Time: 0.025141100600070784
+
+INFO:root:EVAL: 60000	Ep: 121	Rew: -1.2052043664829504	Len: 500	Shield: 316	 Unsafe: 0	Time: 0.022258320799679494
+
+INFO:root:EVAL: 60000	Ep: 121	Rew: -1.212191368492406	Len: 500	Shield: 264	 Unsafe: 0	Time: 0.02770478939980967
+
+INFO:root:EVAL: 60000	Ep: 121	Rew: -1.2124049044604963	Len: 500	Shield: 363	 Unsafe: 0	Time: 0.013788207799312658
+
+INFO:root:EVAL: 60000	Ep: 121	Rew: -1.2090540605149707	Len: 500	Shield: 300	 Unsafe: 0	Time: 0.025165806400415023
+
+INFO:root:EVALAVG: 60000	Ep: 121	RewAvg: -1.2241491023206226	RewStd: 0.022579866188416738	Len: 500.0	Shield: 276.7	 Unsafe: 0.0	Time: 0.023545691559748956
+
+INFO:root:T: 60500	Ep: 121	Rew: -1.1911606286919136	Shield: 234	ShieldSteps: 234	Len: 500	Unsafe: 0
+INFO:root:T: 61000	Ep: 122	Rew: -1.1067545197888908	Shield: 320	ShieldSteps: 320	Len: 500	Unsafe: 0
+INFO:root:T: 61500	Ep: 123	Rew: -1.1865299920488461	Shield: 271	ShieldSteps: 271	Len: 500	Unsafe: 0
+INFO:root:T: 62000	Ep: 124	Rew: -1.2132922667567407	Shield: 245	ShieldSteps: 245	Len: 500	Unsafe: 0
+INFO:root:T: 62500	Ep: 125	Rew: -1.1337437240780348	Shield: 317	ShieldSteps: 317	Len: 500	Unsafe: 0
+INFO:root:T: 63000	Ep: 126	Rew: -1.2204992828761432	Shield: 268	ShieldSteps: 268	Len: 500	Unsafe: 0
+INFO:root:T: 63500	Ep: 127	Rew: -1.2070960439527645	Shield: 240	ShieldSteps: 240	Len: 500	Unsafe: 0
+INFO:root:T: 64000	Ep: 128	Rew: -1.2085557900181587	Shield: 358	ShieldSteps: 358	Len: 500	Unsafe: 0
+INFO:root:T: 64500	Ep: 129	Rew: -1.224770754846397	Shield: 296	ShieldSteps: 296	Len: 500	Unsafe: 0
+INFO:root:T: 65000	Ep: 130	Rew: -1.2058348098240688	Shield: 327	ShieldSteps: 327	Len: 500	Unsafe: 0
+INFO:root:T: 65500	Ep: 131	Rew: -1.2239280105256822	Shield: 254	ShieldSteps: 254	Len: 500	Unsafe: 0
+INFO:root:T: 66000	Ep: 132	Rew: -1.2064146165717342	Shield: 265	ShieldSteps: 265	Len: 500	Unsafe: 0
+INFO:root:T: 66500	Ep: 133	Rew: -1.0827811411279067	Shield: 296	ShieldSteps: 296	Len: 500	Unsafe: 0
+INFO:root:T: 67000	Ep: 134	Rew: -1.2183768831382027	Shield: 309	ShieldSteps: 309	Len: 500	Unsafe: 0
+INFO:root:T: 67500	Ep: 135	Rew: -1.207614169091534	Shield: 270	ShieldSteps: 270	Len: 500	Unsafe: 0
+INFO:root:T: 68000	Ep: 136	Rew: -1.2139761306274797	Shield: 297	ShieldSteps: 297	Len: 500	Unsafe: 0
+INFO:root:T: 68500	Ep: 137	Rew: -1.23588267502352	Shield: 271	ShieldSteps: 271	Len: 500	Unsafe: 0
+INFO:root:T: 69000	Ep: 138	Rew: -1.1732027812998398	Shield: 250	ShieldSteps: 250	Len: 500	Unsafe: 0
+INFO:root:T: 69500	Ep: 139	Rew: -1.2123667042432087	Shield: 334	ShieldSteps: 334	Len: 500	Unsafe: 0
+INFO:root:T: 70000	Ep: 140	Rew: -1.151488885056884	Shield: 293	ShieldSteps: 293	Len: 500	Unsafe: 0
+INFO:root:T: 70500	Ep: 141	Rew: -1.181651995553645	Shield: 260	ShieldSteps: 260	Len: 500	Unsafe: 0
+INFO:root:T: 71000	Ep: 142	Rew: -1.1603947472151752	Shield: 258	ShieldSteps: 258	Len: 500	Unsafe: 0
+INFO:root:T: 71500	Ep: 143	Rew: -1.2122925817547894	Shield: 287	ShieldSteps: 287	Len: 500	Unsafe: 0
+INFO:root:T: 72000	Ep: 144	Rew: -1.2087159330402848	Shield: 406	ShieldSteps: 406	Len: 500	Unsafe: 0
+INFO:root:T: 72500	Ep: 145	Rew: -1.2099388100641006	Shield: 320	ShieldSteps: 320	Len: 500	Unsafe: 0
+INFO:root:T: 73000	Ep: 146	Rew: -1.2074353121968457	Shield: 299	ShieldSteps: 299	Len: 500	Unsafe: 0
+INFO:root:T: 73500	Ep: 147	Rew: -1.0932994133961138	Shield: 322	ShieldSteps: 322	Len: 500	Unsafe: 0
+INFO:root:T: 74000	Ep: 148	Rew: -1.2124648853058384	Shield: 344	ShieldSteps: 344	Len: 500	Unsafe: 0
+INFO:root:T: 74500	Ep: 149	Rew: -1.2261925013633044	Shield: 157	ShieldSteps: 157	Len: 500	Unsafe: 0
+INFO:root:T: 75000	Ep: 150	Rew: -1.2135002969045128	Shield: 280	ShieldSteps: 280	Len: 500	Unsafe: 0
+INFO:root:T: 75500	Ep: 151	Rew: -1.2114765912364516	Shield: 331	ShieldSteps: 331	Len: 500	Unsafe: 0
+INFO:root:T: 76000	Ep: 152	Rew: -1.2082315332374685	Shield: 274	ShieldSteps: 274	Len: 500	Unsafe: 0
+INFO:root:T: 76500	Ep: 153	Rew: -1.2076790596005669	Shield: 286	ShieldSteps: 286	Len: 500	Unsafe: 0
+INFO:root:T: 77000	Ep: 154	Rew: -1.1402123844435432	Shield: 339	ShieldSteps: 339	Len: 500	Unsafe: 0
+INFO:root:T: 77500	Ep: 155	Rew: -1.1423519852221224	Shield: 259	ShieldSteps: 259	Len: 500	Unsafe: 0
+INFO:root:T: 78000	Ep: 156	Rew: -1.2102033132576349	Shield: 298	ShieldSteps: 298	Len: 500	Unsafe: 0
+INFO:root:T: 78500	Ep: 157	Rew: -1.2275247259407733	Shield: 297	ShieldSteps: 297	Len: 500	Unsafe: 0
+INFO:root:T: 79000	Ep: 158	Rew: -1.1897072155263546	Shield: 268	ShieldSteps: 268	Len: 500	Unsafe: 0
+INFO:root:T: 79500	Ep: 159	Rew: -1.2095606861447166	Shield: 313	ShieldSteps: 313	Len: 500	Unsafe: 0
+INFO:root:T: 80000	Ep: 160	Rew: -1.2450886503324108	Shield: 336	ShieldSteps: 336	Len: 500	Unsafe: 0
+INFO:root:EVAL: 80000	Ep: 161	Rew: -1.1712835926034644	Len: 500	Shield: 312	 Unsafe: 0	Time: 0.025103523200086783
+
+INFO:root:EVAL: 80000	Ep: 161	Rew: -1.2248413358966053	Len: 500	Shield: 252	 Unsafe: 0	Time: 0.031965179599937985
+
+INFO:root:EVAL: 80000	Ep: 161	Rew: -1.262320826015312	Len: 500	Shield: 316	 Unsafe: 0	Time: 0.022860966999316588
+
+INFO:root:EVAL: 80000	Ep: 161	Rew: -1.1350110645493041	Len: 500	Shield: 281	 Unsafe: 0	Time: 0.01466517680027755
+
+INFO:root:EVAL: 80000	Ep: 161	Rew: -1.2153489997907134	Len: 500	Shield: 366	 Unsafe: 0	Time: 0.008504166199243627
+
+INFO:root:EVAL: 80000	Ep: 161	Rew: 0.3860680761716071	Len: 500	Shield: 198	 Unsafe: 0	Time: 0.016412319400173146
+
+INFO:root:EVAL: 80000	Ep: 161	Rew: -1.2064690930016615	Len: 500	Shield: 278	 Unsafe: 0	Time: 0.014030661200056783
+
+INFO:root:EVAL: 80000	Ep: 161	Rew: -1.2062194612570705	Len: 500	Shield: 277	 Unsafe: 0	Time: 0.012832083999586756
+
+INFO:root:EVAL: 80000	Ep: 161	Rew: -1.2076988906568886	Len: 500	Shield: 259	 Unsafe: 0	Time: 0.01523109719878994
+
+INFO:root:EVAL: 80000	Ep: 161	Rew: -1.149514728202487	Len: 500	Shield: 261	 Unsafe: 0	Time: 0.0222582975992118
+
+INFO:root:EVALAVG: 80000	Ep: 161	RewAvg: -1.03926399158019	RewStd: 0.4764162704584607	Len: 500.0	Shield: 280.0	 Unsafe: 0.0	Time: 0.018386347219668094
+
+INFO:root:T: 80500	Ep: 161	Rew: -1.1690851552948345	Shield: 324	ShieldSteps: 324	Len: 500	Unsafe: 0
+INFO:root:T: 81000	Ep: 162	Rew: -1.2110649229168362	Shield: 293	ShieldSteps: 293	Len: 500	Unsafe: 0
+INFO:root:T: 81500	Ep: 163	Rew: -1.205942247312531	Shield: 317	ShieldSteps: 317	Len: 500	Unsafe: 0
+INFO:root:T: 82000	Ep: 164	Rew: -1.1185933352698412	Shield: 272	ShieldSteps: 272	Len: 500	Unsafe: 0
+INFO:root:T: 82500	Ep: 165	Rew: -1.205991578404482	Shield: 231	ShieldSteps: 231	Len: 500	Unsafe: 1
+INFO:root:T: 83000	Ep: 166	Rew: -1.2081361733016653	Shield: 274	ShieldSteps: 274	Len: 500	Unsafe: 0
+INFO:root:T: 83500	Ep: 167	Rew: -1.2070842917913072	Shield: 263	ShieldSteps: 263	Len: 500	Unsafe: 0
+INFO:root:T: 84000	Ep: 168	Rew: -1.2136152202325374	Shield: 354	ShieldSteps: 354	Len: 500	Unsafe: 0
+INFO:root:T: 84500	Ep: 169	Rew: -1.2087688450559264	Shield: 334	ShieldSteps: 334	Len: 500	Unsafe: 0
+INFO:root:T: 85000	Ep: 170	Rew: -1.2384059591511785	Shield: 262	ShieldSteps: 262	Len: 500	Unsafe: 0
+INFO:root:T: 85500	Ep: 171	Rew: -1.1946886571264808	Shield: 289	ShieldSteps: 289	Len: 500	Unsafe: 0
+INFO:root:T: 86000	Ep: 172	Rew: -1.1935444044027477	Shield: 347	ShieldSteps: 347	Len: 500	Unsafe: 0
+INFO:root:T: 86500	Ep: 173	Rew: -1.2076475371872302	Shield: 325	ShieldSteps: 325	Len: 500	Unsafe: 2
+INFO:root:T: 87000	Ep: 174	Rew: -1.1537205491303004	Shield: 287	ShieldSteps: 287	Len: 500	Unsafe: 0
+INFO:root:T: 87500	Ep: 175	Rew: -1.2092824371856512	Shield: 343	ShieldSteps: 343	Len: 500	Unsafe: 0
+INFO:root:T: 88000	Ep: 176	Rew: -1.0998950311451066	Shield: 340	ShieldSteps: 340	Len: 500	Unsafe: 0
+INFO:root:T: 88500	Ep: 177	Rew: -1.2080997417925368	Shield: 370	ShieldSteps: 370	Len: 500	Unsafe: 0
+INFO:root:T: 89000	Ep: 178	Rew: -1.2222270997837117	Shield: 295	ShieldSteps: 295	Len: 500	Unsafe: 0
+INFO:root:T: 89500	Ep: 179	Rew: 0.28991523666402996	Shield: 224	ShieldSteps: 224	Len: 500	Unsafe: 0
+INFO:root:T: 90000	Ep: 180	Rew: -1.161266895557826	Shield: 282	ShieldSteps: 282	Len: 500	Unsafe: 0
+INFO:root:T: 90500	Ep: 181	Rew: -1.2106366406579703	Shield: 383	ShieldSteps: 383	Len: 500	Unsafe: 0
+INFO:root:T: 91000	Ep: 182	Rew: -1.2084744502386653	Shield: 308	ShieldSteps: 308	Len: 500	Unsafe: 0
+INFO:root:T: 91500	Ep: 183	Rew: -1.219140496456907	Shield: 296	ShieldSteps: 296	Len: 500	Unsafe: 0
+INFO:root:T: 92000	Ep: 184	Rew: -1.1201040862732219	Shield: 308	ShieldSteps: 308	Len: 500	Unsafe: 1
+INFO:root:T: 92500	Ep: 185	Rew: -1.2067929583732437	Shield: 254	ShieldSteps: 254	Len: 500	Unsafe: 0
+INFO:root:T: 93000	Ep: 186	Rew: -1.2077060195110816	Shield: 346	ShieldSteps: 346	Len: 500	Unsafe: 0
+INFO:root:T: 93500	Ep: 187	Rew: -0.19361301801780864	Shield: 152	ShieldSteps: 152	Len: 500	Unsafe: 0
+INFO:root:T: 94000	Ep: 188	Rew: -1.2372545698055333	Shield: 126	ShieldSteps: 126	Len: 500	Unsafe: 0
+INFO:root:T: 94500	Ep: 189	Rew: -1.0972575746548638	Shield: 325	ShieldSteps: 325	Len: 500	Unsafe: 0
+INFO:root:T: 95000	Ep: 190	Rew: -1.213201819443574	Shield: 317	ShieldSteps: 317	Len: 500	Unsafe: 0
+INFO:root:T: 95500	Ep: 191	Rew: -1.2137257311334986	Shield: 302	ShieldSteps: 302	Len: 500	Unsafe: 0
+INFO:root:T: 96000	Ep: 192	Rew: -1.172709378500468	Shield: 282	ShieldSteps: 282	Len: 500	Unsafe: 0
+INFO:root:T: 96500	Ep: 193	Rew: -1.1586093095310621	Shield: 343	ShieldSteps: 343	Len: 500	Unsafe: 0
+INFO:root:T: 97000	Ep: 194	Rew: -1.2088489425431184	Shield: 335	ShieldSteps: 335	Len: 500	Unsafe: 0
+INFO:root:T: 97500	Ep: 195	Rew: -1.2070910276877227	Shield: 321	ShieldSteps: 321	Len: 500	Unsafe: 0
+INFO:root:T: 98000	Ep: 196	Rew: -1.2083718390759037	Shield: 336	ShieldSteps: 336	Len: 500	Unsafe: 0
+INFO:root:T: 98500	Ep: 197	Rew: -1.2172403415897783	Shield: 267	ShieldSteps: 267	Len: 500	Unsafe: 0
+INFO:root:T: 99000	Ep: 198	Rew: -1.208288719281744	Shield: 317	ShieldSteps: 317	Len: 500	Unsafe: 0
+INFO:root:T: 99500	Ep: 199	Rew: -1.175177929198821	Shield: 340	ShieldSteps: 340	Len: 500	Unsafe: 0
+INFO:root:T: 100000	Ep: 200	Rew: -1.2094849591374999	Shield: 246	ShieldSteps: 246	Len: 500	Unsafe: 0
+INFO:root:EVAL: 100000	Ep: 201	Rew: -1.211608128685438	Len: 500	Shield: 297	 Unsafe: 0	Time: 0.026100623200240078
+
+INFO:root:EVAL: 100000	Ep: 201	Rew: -1.208799751138901	Len: 500	Shield: 175	 Unsafe: 0	Time: 0.038729794200568
+
+INFO:root:EVAL: 100000	Ep: 201	Rew: -1.2077012755213754	Len: 500	Shield: 279	 Unsafe: 0	Time: 0.028477490600605962
+
+INFO:root:EVAL: 100000	Ep: 201	Rew: -1.2287685225602587	Len: 500	Shield: 309	 Unsafe: 0	Time: 0.023594467800226993
+
+INFO:root:EVAL: 100000	Ep: 201	Rew: -1.1748609877140685	Len: 500	Shield: 311	 Unsafe: 0	Time: 0.02190772160049528
+
+INFO:root:EVAL: 100000	Ep: 201	Rew: -1.1778381795266686	Len: 500	Shield: 295	 Unsafe: 0	Time: 0.024813269600679633
+
+INFO:root:EVAL: 100000	Ep: 201	Rew: -1.1588447744307633	Len: 500	Shield: 210	 Unsafe: 0	Time: 0.032351082799898
+
+INFO:root:EVAL: 100000	Ep: 201	Rew: -1.2117062086628083	Len: 500	Shield: 175	 Unsafe: 0	Time: 0.033989125999563836
+
+INFO:root:EVAL: 100000	Ep: 201	Rew: -1.0947464647399627	Len: 500	Shield: 312	 Unsafe: 0	Time: 0.022077579799224624
+
+INFO:root:EVAL: 100000	Ep: 201	Rew: -1.2068919394158881	Len: 500	Shield: 284	 Unsafe: 0	Time: 0.025727696000249125
+
+INFO:root:EVALAVG: 100000	Ep: 201	RewAvg: -1.1881766232396134	RewStd: 0.03712264683239132	Len: 500.0	Shield: 264.7	 Unsafe: 0.0	Time: 0.027776885160175152
+
+INFO:root:T: 100500	Ep: 201	Rew: -1.2147673123347376	Shield: 270	ShieldSteps: 270	Len: 500	Unsafe: 0
+INFO:root:T: 101000	Ep: 202	Rew: -1.2156434568081953	Shield: 319	ShieldSteps: 319	Len: 500	Unsafe: 0
+INFO:root:T: 101500	Ep: 203	Rew: -1.1532394595684723	Shield: 208	ShieldSteps: 208	Len: 500	Unsafe: 0
+INFO:root:T: 102000	Ep: 204	Rew: -1.165153850270588	Shield: 288	ShieldSteps: 288	Len: 500	Unsafe: 0
+INFO:root:T: 102500	Ep: 205	Rew: -1.1296900766946445	Shield: 321	ShieldSteps: 321	Len: 500	Unsafe: 0
+INFO:root:T: 103000	Ep: 206	Rew: -1.2157847089827518	Shield: 287	ShieldSteps: 287	Len: 500	Unsafe: 0
+INFO:root:T: 103500	Ep: 207	Rew: -1.2108467784137233	Shield: 319	ShieldSteps: 319	Len: 500	Unsafe: 0
+INFO:root:T: 104000	Ep: 208	Rew: -1.1415878814877667	Shield: 363	ShieldSteps: 363	Len: 500	Unsafe: 0
+INFO:root:T: 104500	Ep: 209	Rew: -1.2132552494387385	Shield: 316	ShieldSteps: 316	Len: 500	Unsafe: 0
+INFO:root:T: 105000	Ep: 210	Rew: -1.103096593671196	Shield: 284	ShieldSteps: 284	Len: 500	Unsafe: 0
+INFO:root:T: 105500	Ep: 211	Rew: -1.2191593915906804	Shield: 288	ShieldSteps: 288	Len: 500	Unsafe: 0
+INFO:root:T: 106000	Ep: 212	Rew: -1.2999995190919442	Shield: 287	ShieldSteps: 287	Len: 500	Unsafe: 0
+INFO:root:T: 106500	Ep: 213	Rew: -1.2478026836570775	Shield: 311	ShieldSteps: 311	Len: 500	Unsafe: 0
+INFO:root:T: 107000	Ep: 214	Rew: -1.164474821268205	Shield: 278	ShieldSteps: 278	Len: 500	Unsafe: 0
+INFO:root:T: 107500	Ep: 215	Rew: -1.2086486109529955	Shield: 336	ShieldSteps: 336	Len: 500	Unsafe: 0
+INFO:root:T: 108000	Ep: 216	Rew: -1.2103757100172916	Shield: 281	ShieldSteps: 281	Len: 500	Unsafe: 0
+INFO:root:T: 108500	Ep: 217	Rew: -1.1215210645376643	Shield: 351	ShieldSteps: 351	Len: 500	Unsafe: 0
+INFO:root:T: 109000	Ep: 218	Rew: -1.2070658141984623	Shield: 325	ShieldSteps: 325	Len: 500	Unsafe: 0
+INFO:root:T: 109500	Ep: 219	Rew: -1.2008717892504697	Shield: 232	ShieldSteps: 232	Len: 500	Unsafe: 0
+INFO:root:T: 110000	Ep: 220	Rew: -1.2125614947246606	Shield: 314	ShieldSteps: 314	Len: 500	Unsafe: 0
+INFO:root:T: 110500	Ep: 221	Rew: -1.1726456174278663	Shield: 247	ShieldSteps: 247	Len: 500	Unsafe: 0
+INFO:root:T: 111000	Ep: 222	Rew: -1.287661710364326	Shield: 319	ShieldSteps: 319	Len: 500	Unsafe: 0
+INFO:root:T: 111500	Ep: 223	Rew: -1.2074081074019383	Shield: 355	ShieldSteps: 355	Len: 500	Unsafe: 0
+INFO:root:T: 112000	Ep: 224	Rew: -1.2139723180291948	Shield: 287	ShieldSteps: 287	Len: 500	Unsafe: 0
+INFO:root:T: 112500	Ep: 225	Rew: -1.1723150388752397	Shield: 294	ShieldSteps: 294	Len: 500	Unsafe: 0
+INFO:root:T: 113000	Ep: 226	Rew: -1.2081895849076665	Shield: 263	ShieldSteps: 263	Len: 500	Unsafe: 0
+INFO:root:T: 113500	Ep: 227	Rew: -1.2142100993384544	Shield: 317	ShieldSteps: 317	Len: 500	Unsafe: 0
+INFO:root:T: 114000	Ep: 228	Rew: -1.1623387272211116	Shield: 275	ShieldSteps: 275	Len: 500	Unsafe: 0
+INFO:root:T: 114500	Ep: 229	Rew: -1.1151131046514942	Shield: 302	ShieldSteps: 302	Len: 500	Unsafe: 0
+INFO:root:T: 115000	Ep: 230	Rew: -1.2072852629988493	Shield: 323	ShieldSteps: 323	Len: 500	Unsafe: 0
+INFO:root:T: 115500	Ep: 231	Rew: -1.2126957890172916	Shield: 277	ShieldSteps: 277	Len: 500	Unsafe: 0
+INFO:root:T: 116000	Ep: 232	Rew: -1.3081099824147864	Shield: 262	ShieldSteps: 262	Len: 500	Unsafe: 0
+INFO:root:T: 116500	Ep: 233	Rew: -1.207664520644296	Shield: 285	ShieldSteps: 285	Len: 500	Unsafe: 0
+INFO:root:T: 117000	Ep: 234	Rew: -1.2279667977596855	Shield: 295	ShieldSteps: 295	Len: 500	Unsafe: 0
+INFO:root:T: 117500	Ep: 235	Rew: -1.215402717871074	Shield: 323	ShieldSteps: 323	Len: 500	Unsafe: 0
+INFO:root:T: 118000	Ep: 236	Rew: -1.2121948079242704	Shield: 298	ShieldSteps: 298	Len: 500	Unsafe: 0
+INFO:root:T: 118500	Ep: 237	Rew: -1.2248506130876418	Shield: 276	ShieldSteps: 276	Len: 500	Unsafe: 0
+INFO:root:T: 119000	Ep: 238	Rew: -1.2093804173780753	Shield: 275	ShieldSteps: 275	Len: 500	Unsafe: 0
+INFO:root:T: 119500	Ep: 239	Rew: -1.210016080910942	Shield: 309	ShieldSteps: 309	Len: 500	Unsafe: 0
+INFO:root:T: 120000	Ep: 240	Rew: -1.123180779021182	Shield: 264	ShieldSteps: 264	Len: 500	Unsafe: 0
+INFO:root:EVAL: 120000	Ep: 241	Rew: -1.1435260063972612	Len: 500	Shield: 319	 Unsafe: 0	Time: 0.019283310400438496
+
+INFO:root:EVAL: 120000	Ep: 241	Rew: -1.1361284945318646	Len: 500	Shield: 298	 Unsafe: 0	Time: 0.013165372400602792
+
+INFO:root:EVAL: 120000	Ep: 241	Rew: -1.1461644336830772	Len: 500	Shield: 346	 Unsafe: 0	Time: 0.010614064799679909
+
+INFO:root:EVAL: 120000	Ep: 241	Rew: -1.2702555186506965	Len: 500	Shield: 288	 Unsafe: 0	Time: 0.014251675999665167
+
+INFO:root:EVAL: 120000	Ep: 241	Rew: -1.2065347308515144	Len: 500	Shield: 296	 Unsafe: 0	Time: 0.019201376001175958
+
+INFO:root:EVAL: 120000	Ep: 241	Rew: -1.2147038320743266	Len: 500	Shield: 279	 Unsafe: 0	Time: 0.022062841600098183
+
+INFO:root:EVAL: 120000	Ep: 241	Rew: -1.107853591914458	Len: 500	Shield: 309	 Unsafe: 0	Time: 0.012866934800113085
+
+INFO:root:EVAL: 120000	Ep: 241	Rew: -1.29312857707368	Len: 500	Shield: 312	 Unsafe: 0	Time: 0.013043881200195756
+
+INFO:root:EVAL: 120000	Ep: 241	Rew: -1.2227070884524283	Len: 500	Shield: 324	 Unsafe: 0	Time: 0.012486525599728338
+
+INFO:root:EVAL: 120000	Ep: 241	Rew: -1.2095994597535304	Len: 500	Shield: 282	 Unsafe: 0	Time: 0.013404588000208604
+
+INFO:root:EVALAVG: 120000	Ep: 241	RewAvg: -1.1950601733382835	RewStd: 0.05734939202870919	Len: 500.0	Shield: 305.3	 Unsafe: 0.0	Time: 0.015038057080190629
+
+INFO:root:T: 120500	Ep: 241	Rew: -1.0924253283506313	Shield: 270	ShieldSteps: 270	Len: 500	Unsafe: 0
+INFO:root:T: 121000	Ep: 242	Rew: -1.2599250740218315	Shield: 268	ShieldSteps: 268	Len: 500	Unsafe: 0
+INFO:root:T: 121500	Ep: 243	Rew: -1.1857740542534163	Shield: 296	ShieldSteps: 296	Len: 500	Unsafe: 0
+INFO:root:T: 122000	Ep: 244	Rew: -1.209744846655328	Shield: 295	ShieldSteps: 295	Len: 500	Unsafe: 0
+INFO:root:T: 122500	Ep: 245	Rew: -1.1422367486467115	Shield: 305	ShieldSteps: 305	Len: 500	Unsafe: 0
+INFO:root:T: 123000	Ep: 246	Rew: -1.1503122601376832	Shield: 301	ShieldSteps: 301	Len: 500	Unsafe: 0
+INFO:root:T: 123500	Ep: 247	Rew: -1.2171729448651063	Shield: 287	ShieldSteps: 287	Len: 500	Unsafe: 0
+INFO:root:T: 124000	Ep: 248	Rew: -1.1447345358687984	Shield: 300	ShieldSteps: 300	Len: 500	Unsafe: 0
+INFO:root:T: 124500	Ep: 249	Rew: -1.212704242075361	Shield: 278	ShieldSteps: 278	Len: 500	Unsafe: 0
+INFO:root:T: 125000	Ep: 250	Rew: -1.2563857842288368	Shield: 291	ShieldSteps: 291	Len: 500	Unsafe: 0
+INFO:root:T: 125500	Ep: 251	Rew: -1.208325406528214	Shield: 185	ShieldSteps: 185	Len: 500	Unsafe: 0
+INFO:root:T: 126000	Ep: 252	Rew: -1.204964449719947	Shield: 297	ShieldSteps: 297	Len: 500	Unsafe: 0
+INFO:root:T: 126500	Ep: 253	Rew: -1.1923427538971019	Shield: 282	ShieldSteps: 282	Len: 500	Unsafe: 0
+INFO:root:T: 127000	Ep: 254	Rew: -1.2146130724254363	Shield: 291	ShieldSteps: 291	Len: 500	Unsafe: 0
+INFO:root:T: 127500	Ep: 255	Rew: -1.0972114513767801	Shield: 238	ShieldSteps: 238	Len: 500	Unsafe: 0
+INFO:root:T: 128000	Ep: 256	Rew: -1.2106871265610468	Shield: 287	ShieldSteps: 287	Len: 500	Unsafe: 0
+INFO:root:T: 128500	Ep: 257	Rew: -1.206735666413976	Shield: 245	ShieldSteps: 245	Len: 500	Unsafe: 0
+INFO:root:T: 129000	Ep: 258	Rew: -1.2102147508913064	Shield: 254	ShieldSteps: 254	Len: 500	Unsafe: 0
+INFO:root:T: 129500	Ep: 259	Rew: -1.2103896574978363	Shield: 310	ShieldSteps: 310	Len: 500	Unsafe: 0
+INFO:root:T: 130000	Ep: 260	Rew: -1.2118392456287035	Shield: 326	ShieldSteps: 326	Len: 500	Unsafe: 0
+INFO:root:T: 130500	Ep: 261	Rew: -1.206689488730226	Shield: 320	ShieldSteps: 320	Len: 500	Unsafe: 0
+INFO:root:T: 131000	Ep: 262	Rew: -1.2107904371726699	Shield: 290	ShieldSteps: 290	Len: 500	Unsafe: 0
+INFO:root:T: 131500	Ep: 263	Rew: -1.2107774185624385	Shield: 339	ShieldSteps: 339	Len: 500	Unsafe: 0
+INFO:root:T: 132000	Ep: 264	Rew: -1.2077299574570775	Shield: 298	ShieldSteps: 298	Len: 500	Unsafe: 0
+INFO:root:T: 132500	Ep: 265	Rew: -1.1866215653207297	Shield: 293	ShieldSteps: 293	Len: 500	Unsafe: 0
+INFO:root:T: 133000	Ep: 266	Rew: -1.2559379382449358	Shield: 263	ShieldSteps: 263	Len: 500	Unsafe: 0
+INFO:root:T: 133500	Ep: 267	Rew: -1.217050395344004	Shield: 285	ShieldSteps: 285	Len: 500	Unsafe: 0
+INFO:root:T: 134000	Ep: 268	Rew: -1.2108957817994332	Shield: 293	ShieldSteps: 293	Len: 500	Unsafe: 0
+INFO:root:T: 134500	Ep: 269	Rew: -1.2096182848945705	Shield: 290	ShieldSteps: 290	Len: 500	Unsafe: 0
+INFO:root:T: 135000	Ep: 270	Rew: -1.1943935240444434	Shield: 267	ShieldSteps: 267	Len: 500	Unsafe: 0
+INFO:root:T: 135500	Ep: 271	Rew: -1.2067423076619004	Shield: 263	ShieldSteps: 263	Len: 500	Unsafe: 0
+INFO:root:T: 136000	Ep: 272	Rew: -1.1409132834729334	Shield: 311	ShieldSteps: 311	Len: 500	Unsafe: 0
+INFO:root:T: 136500	Ep: 273	Rew: -1.2278907691030116	Shield: 325	ShieldSteps: 325	Len: 500	Unsafe: 0
+INFO:root:T: 137000	Ep: 274	Rew: -1.2145942811008235	Shield: 310	ShieldSteps: 310	Len: 500	Unsafe: 0
+INFO:root:T: 137500	Ep: 275	Rew: -1.1724003345227212	Shield: 302	ShieldSteps: 302	Len: 500	Unsafe: 0
+INFO:root:T: 138000	Ep: 276	Rew: -1.207802392003327	Shield: 220	ShieldSteps: 220	Len: 500	Unsafe: 0
+INFO:root:T: 138500	Ep: 277	Rew: -1.212180091458964	Shield: 351	ShieldSteps: 351	Len: 500	Unsafe: 0
+INFO:root:T: 139000	Ep: 278	Rew: -1.2101579117058672	Shield: 245	ShieldSteps: 245	Len: 500	Unsafe: 0
+INFO:root:T: 139500	Ep: 279	Rew: -1.2117101870467522	Shield: 274	ShieldSteps: 274	Len: 500	Unsafe: 0
+INFO:root:T: 140000	Ep: 280	Rew: -1.2065250501742322	Shield: 279	ShieldSteps: 279	Len: 500	Unsafe: 0
+INFO:root:EVAL: 140000	Ep: 281	Rew: -1.1014650267867245	Len: 500	Shield: 265	 Unsafe: 0	Time: 0.027317338201974052
+
+INFO:root:EVAL: 140000	Ep: 281	Rew: -1.1058325946272265	Len: 500	Shield: 252	 Unsafe: 0	Time: 0.03106934019870823
+
+INFO:root:EVAL: 140000	Ep: 281	Rew: -1.2140663423378546	Len: 500	Shield: 319	 Unsafe: 0	Time: 0.023518960599438286
+
+INFO:root:EVAL: 140000	Ep: 281	Rew: -1.2136117408755538	Len: 500	Shield: 291	 Unsafe: 1	Time: 0.028414204199856612
+
+INFO:root:EVAL: 140000	Ep: 281	Rew: -1.2078422340602442	Len: 500	Shield: 298	 Unsafe: 0	Time: 0.02688007200078573
+
+INFO:root:EVAL: 140000	Ep: 281	Rew: -1.2091826447828409	Len: 500	Shield: 292	 Unsafe: 0	Time: 0.025173297000757884
+
+INFO:root:EVAL: 140000	Ep: 281	Rew: -1.08760561649722	Len: 500	Shield: 275	 Unsafe: 0	Time: 0.027693506199109832
+
+INFO:root:EVAL: 140000	Ep: 281	Rew: -1.1283257701674865	Len: 500	Shield: 300	 Unsafe: 0	Time: 0.02713005359901581
+
+INFO:root:EVAL: 140000	Ep: 281	Rew: -1.2074248094143505	Len: 500	Shield: 273	 Unsafe: 0	Time: 0.02132968499948038
+
+INFO:root:EVAL: 140000	Ep: 281	Rew: -1.1180391061061898	Len: 500	Shield: 326	 Unsafe: 0	Time: 0.012202669600606895
+
+INFO:root:EVALAVG: 140000	Ep: 281	RewAvg: -1.1593395885655693	RewStd: 0.0520723748882912	Len: 500.0	Shield: 289.1	 Unsafe: 0.1	Time: 0.025072912659973367
+
+INFO:root:T: 140500	Ep: 281	Rew: -1.2096966081082525	Shield: 226	ShieldSteps: 226	Len: 500	Unsafe: 0
+INFO:root:T: 141000	Ep: 282	Rew: -1.2072616667041005	Shield: 282	ShieldSteps: 282	Len: 500	Unsafe: 0
+INFO:root:T: 141500	Ep: 283	Rew: -1.1648290087476558	Shield: 325	ShieldSteps: 325	Len: 500	Unsafe: 0
+INFO:root:T: 142000	Ep: 284	Rew: -1.2146033722567273	Shield: 300	ShieldSteps: 300	Len: 500	Unsafe: 0
+INFO:root:T: 142500	Ep: 285	Rew: -1.2121327329260725	Shield: 316	ShieldSteps: 316	Len: 500	Unsafe: 0
+INFO:root:T: 143000	Ep: 286	Rew: -1.2098058973095358	Shield: 291	ShieldSteps: 291	Len: 500	Unsafe: 0
+INFO:root:T: 143500	Ep: 287	Rew: -1.2076033644311963	Shield: 237	ShieldSteps: 237	Len: 500	Unsafe: 0
+INFO:root:T: 144000	Ep: 288	Rew: -1.214193300832244	Shield: 319	ShieldSteps: 319	Len: 500	Unsafe: 0
+INFO:root:T: 144500	Ep: 289	Rew: -1.169904574248475	Shield: 293	ShieldSteps: 293	Len: 500	Unsafe: 0
+INFO:root:T: 145000	Ep: 290	Rew: -1.2334353187483753	Shield: 262	ShieldSteps: 262	Len: 500	Unsafe: 0
+INFO:root:T: 145500	Ep: 291	Rew: -1.115977436078862	Shield: 332	ShieldSteps: 332	Len: 500	Unsafe: 0
+INFO:root:T: 146000	Ep: 292	Rew: -1.2685237500365727	Shield: 289	ShieldSteps: 289	Len: 500	Unsafe: 0
+INFO:root:T: 146500	Ep: 293	Rew: -1.2095823664473266	Shield: 293	ShieldSteps: 293	Len: 500	Unsafe: 0
+INFO:root:T: 147000	Ep: 294	Rew: -1.216289683480548	Shield: 301	ShieldSteps: 301	Len: 500	Unsafe: 0
+INFO:root:T: 147500	Ep: 295	Rew: -1.2070372855322653	Shield: 286	ShieldSteps: 286	Len: 500	Unsafe: 0
+INFO:root:T: 148000	Ep: 296	Rew: -1.2084655360172336	Shield: 270	ShieldSteps: 270	Len: 500	Unsafe: 0
+INFO:root:T: 148500	Ep: 297	Rew: -1.120879295390125	Shield: 289	ShieldSteps: 289	Len: 500	Unsafe: 0
+INFO:root:T: 149000	Ep: 298	Rew: -1.2094945493034392	Shield: 316	ShieldSteps: 316	Len: 500	Unsafe: 0
+INFO:root:T: 149500	Ep: 299	Rew: -1.2097252759275303	Shield: 307	ShieldSteps: 307	Len: 500	Unsafe: 0
+INFO:root:T: 150000	Ep: 300	Rew: -1.195619444951908	Shield: 278	ShieldSteps: 278	Len: 500	Unsafe: 0
+INFO:root:T: 150500	Ep: 301	Rew: -1.173886297201877	Shield: 320	ShieldSteps: 320	Len: 500	Unsafe: 0
+INFO:root:T: 151000	Ep: 302	Rew: -1.2913513310032179	Shield: 319	ShieldSteps: 319	Len: 500	Unsafe: 0
+INFO:root:T: 151500	Ep: 303	Rew: -1.1983201117025486	Shield: 258	ShieldSteps: 258	Len: 500	Unsafe: 0
+INFO:root:T: 152000	Ep: 304	Rew: -1.1119057835693473	Shield: 327	ShieldSteps: 327	Len: 500	Unsafe: 0
+INFO:root:T: 152500	Ep: 305	Rew: -1.1776093990402379	Shield: 311	ShieldSteps: 311	Len: 500	Unsafe: 0
+INFO:root:T: 153000	Ep: 306	Rew: -1.2149276540302798	Shield: 304	ShieldSteps: 304	Len: 500	Unsafe: 0
+INFO:root:T: 153500	Ep: 307	Rew: -1.210099194875781	Shield: 315	ShieldSteps: 315	Len: 500	Unsafe: 0
+INFO:root:T: 154000	Ep: 308	Rew: -1.1854714488780762	Shield: 266	ShieldSteps: 266	Len: 500	Unsafe: 0
+INFO:root:T: 154500	Ep: 309	Rew: -1.2120593374339066	Shield: 293	ShieldSteps: 293	Len: 500	Unsafe: 0
+INFO:root:T: 155000	Ep: 310	Rew: -1.2115657438858336	Shield: 266	ShieldSteps: 266	Len: 500	Unsafe: 0
+INFO:root:T: 155500	Ep: 311	Rew: -1.2090031887333688	Shield: 288	ShieldSteps: 288	Len: 500	Unsafe: 0
+INFO:root:T: 156000	Ep: 312	Rew: -1.1512843023132835	Shield: 265	ShieldSteps: 265	Len: 500	Unsafe: 0
+INFO:root:T: 156500	Ep: 313	Rew: -1.3463142085176438	Shield: 306	ShieldSteps: 306	Len: 500	Unsafe: 0
+INFO:root:T: 157000	Ep: 314	Rew: -1.211160270080758	Shield: 249	ShieldSteps: 249	Len: 500	Unsafe: 0
+INFO:root:T: 157500	Ep: 315	Rew: -1.211920543049772	Shield: 270	ShieldSteps: 270	Len: 500	Unsafe: 0
+INFO:root:T: 158000	Ep: 316	Rew: -1.2059982886606353	Shield: 276	ShieldSteps: 276	Len: 500	Unsafe: 0
+INFO:root:T: 158500	Ep: 317	Rew: -1.2181567379547233	Shield: 284	ShieldSteps: 284	Len: 500	Unsafe: 0
+INFO:root:T: 159000	Ep: 318	Rew: -1.1392687501726138	Shield: 306	ShieldSteps: 306	Len: 500	Unsafe: 0
+INFO:root:T: 159500	Ep: 319	Rew: -1.1559187973634708	Shield: 295	ShieldSteps: 295	Len: 500	Unsafe: 0
+INFO:root:T: 160000	Ep: 320	Rew: -1.2084643184089605	Shield: 292	ShieldSteps: 292	Len: 500	Unsafe: 0
+INFO:root:EVAL: 160000	Ep: 321	Rew: -1.2106830513306261	Len: 500	Shield: 319	 Unsafe: 0	Time: 0.021801636000280268
+
+INFO:root:EVAL: 160000	Ep: 321	Rew: -1.2065805128297233	Len: 500	Shield: 321	 Unsafe: 1	Time: 0.023557990800763946
+
+INFO:root:EVAL: 160000	Ep: 321	Rew: -1.2091903042764467	Len: 500	Shield: 263	 Unsafe: 0	Time: 0.030958393999724648
+
+INFO:root:EVAL: 160000	Ep: 321	Rew: -1.137400456669848	Len: 500	Shield: 271	 Unsafe: 0	Time: 0.03015694940078538
+
+INFO:root:EVAL: 160000	Ep: 321	Rew: -1.2520381405078223	Len: 500	Shield: 219	 Unsafe: 0	Time: 0.026926542199857066
+
+INFO:root:EVAL: 160000	Ep: 321	Rew: -1.2088988602669843	Len: 500	Shield: 298	 Unsafe: 0	Time: 0.01442737760063028
+
+INFO:root:EVAL: 160000	Ep: 321	Rew: -1.2087335500265943	Len: 500	Shield: 282	 Unsafe: 0	Time: 0.015581583200546447
+
+INFO:root:EVAL: 160000	Ep: 321	Rew: -1.1953535910263065	Len: 500	Shield: 326	 Unsafe: 0	Time: 0.013052427200193051
+
+INFO:root:EVAL: 160000	Ep: 321	Rew: -1.1703475743386742	Len: 500	Shield: 285	 Unsafe: 0	Time: 0.01501111399976071
+
+INFO:root:EVAL: 160000	Ep: 321	Rew: -1.2166403443540064	Len: 500	Shield: 310	 Unsafe: 0	Time: 0.012221191800374072
+
+INFO:root:EVALAVG: 160000	Ep: 321	RewAvg: -1.2015866385627032	RewStd: 0.02859477266072772	Len: 500.0	Shield: 289.4	 Unsafe: 0.1	Time: 0.020369520620291588
+
+INFO:root:T: 160500	Ep: 321	Rew: -1.1974512182761572	Shield: 183	ShieldSteps: 183	Len: 500	Unsafe: 0
+INFO:root:T: 161000	Ep: 322	Rew: -1.1264468263890883	Shield: 280	ShieldSteps: 280	Len: 500	Unsafe: 0
+INFO:root:T: 161500	Ep: 323	Rew: -1.1651300108697142	Shield: 299	ShieldSteps: 299	Len: 500	Unsafe: 0
+INFO:root:T: 162000	Ep: 324	Rew: -1.11439178233178	Shield: 257	ShieldSteps: 257	Len: 500	Unsafe: 0
+INFO:root:T: 162500	Ep: 325	Rew: -1.18591779989918	Shield: 296	ShieldSteps: 296	Len: 500	Unsafe: 0
+INFO:root:T: 163000	Ep: 326	Rew: -1.1363789647107776	Shield: 328	ShieldSteps: 328	Len: 500	Unsafe: 0
+INFO:root:T: 163500	Ep: 327	Rew: -1.2448536433619117	Shield: 288	ShieldSteps: 288	Len: 500	Unsafe: 0
+INFO:root:T: 164000	Ep: 328	Rew: -1.2086217577234277	Shield: 323	ShieldSteps: 323	Len: 500	Unsafe: 0
+INFO:root:T: 164500	Ep: 329	Rew: -1.207269877338132	Shield: 285	ShieldSteps: 285	Len: 500	Unsafe: 0
+INFO:root:T: 165000	Ep: 330	Rew: -1.1829365576248418	Shield: 244	ShieldSteps: 244	Len: 500	Unsafe: 0
+INFO:root:T: 165500	Ep: 331	Rew: -1.1798691161411257	Shield: 348	ShieldSteps: 348	Len: 500	Unsafe: 0
+INFO:root:T: 166000	Ep: 332	Rew: -1.1516498151770043	Shield: 283	ShieldSteps: 283	Len: 500	Unsafe: 0
+INFO:root:T: 166500	Ep: 333	Rew: -1.2097048701913578	Shield: 282	ShieldSteps: 282	Len: 500	Unsafe: 0
+INFO:root:T: 167000	Ep: 334	Rew: -1.225492435060833	Shield: 206	ShieldSteps: 206	Len: 500	Unsafe: 0
+INFO:root:T: 167500	Ep: 335	Rew: -1.2059394288988052	Shield: 316	ShieldSteps: 316	Len: 500	Unsafe: 0
+INFO:root:T: 168000	Ep: 336	Rew: -1.2095562000107132	Shield: 293	ShieldSteps: 293	Len: 500	Unsafe: 0
+INFO:root:T: 168500	Ep: 337	Rew: -1.2085076489261284	Shield: 296	ShieldSteps: 296	Len: 500	Unsafe: 0
+INFO:root:T: 169000	Ep: 338	Rew: -1.2143146028526925	Shield: 203	ShieldSteps: 203	Len: 500	Unsafe: 0
+INFO:root:T: 169500	Ep: 339	Rew: -1.1854060649428635	Shield: 284	ShieldSteps: 284	Len: 500	Unsafe: 0
+INFO:root:T: 170000	Ep: 340	Rew: -1.2105771459968415	Shield: 299	ShieldSteps: 299	Len: 500	Unsafe: 0
+INFO:root:T: 170500	Ep: 341	Rew: -1.2216584544409301	Shield: 274	ShieldSteps: 274	Len: 500	Unsafe: 0
+INFO:root:T: 171000	Ep: 342	Rew: -1.2150353658192645	Shield: 288	ShieldSteps: 288	Len: 500	Unsafe: 0
+INFO:root:T: 171500	Ep: 343	Rew: -1.2616604864130256	Shield: 301	ShieldSteps: 301	Len: 500	Unsafe: 0
+INFO:root:T: 172000	Ep: 344	Rew: -1.137907602845276	Shield: 307	ShieldSteps: 307	Len: 500	Unsafe: 0
+INFO:root:T: 172500	Ep: 345	Rew: -1.2079674417497133	Shield: 309	ShieldSteps: 309	Len: 500	Unsafe: 0
+INFO:root:T: 173000	Ep: 346	Rew: -1.2065984270267482	Shield: 303	ShieldSteps: 303	Len: 500	Unsafe: 0
+INFO:root:T: 173500	Ep: 347	Rew: -1.1179395422248515	Shield: 266	ShieldSteps: 266	Len: 500	Unsafe: 0
+INFO:root:T: 174000	Ep: 348	Rew: -1.1967218213293478	Shield: 323	ShieldSteps: 323	Len: 500	Unsafe: 0
+INFO:root:T: 174500	Ep: 349	Rew: -1.1242310218049925	Shield: 270	ShieldSteps: 270	Len: 500	Unsafe: 0
+INFO:root:T: 175000	Ep: 350	Rew: -1.1907744258483923	Shield: 266	ShieldSteps: 266	Len: 500	Unsafe: 0
+INFO:root:T: 175500	Ep: 351	Rew: -1.1383900391221304	Shield: 259	ShieldSteps: 259	Len: 500	Unsafe: 0
+INFO:root:T: 176000	Ep: 352	Rew: -1.24267831287601	Shield: 288	ShieldSteps: 288	Len: 500	Unsafe: 0
+INFO:root:T: 176500	Ep: 353	Rew: -1.1246226174570342	Shield: 297	ShieldSteps: 297	Len: 500	Unsafe: 0
+INFO:root:T: 177000	Ep: 354	Rew: -1.0947514724117986	Shield: 259	ShieldSteps: 259	Len: 500	Unsafe: 0
+INFO:root:T: 177500	Ep: 355	Rew: -1.1317472132796527	Shield: 286	ShieldSteps: 286	Len: 500	Unsafe: 0
+INFO:root:T: 178000	Ep: 356	Rew: -1.2123942488774904	Shield: 308	ShieldSteps: 308	Len: 500	Unsafe: 0
+INFO:root:T: 178500	Ep: 357	Rew: -1.2453555237171083	Shield: 271	ShieldSteps: 271	Len: 500	Unsafe: 0
+INFO:root:T: 179000	Ep: 358	Rew: -1.2083179238081956	Shield: 319	ShieldSteps: 319	Len: 500	Unsafe: 0
+INFO:root:T: 179500	Ep: 359	Rew: -1.1423220680555517	Shield: 264	ShieldSteps: 264	Len: 500	Unsafe: 0
+INFO:root:T: 180000	Ep: 360	Rew: -1.213679160587448	Shield: 269	ShieldSteps: 269	Len: 500	Unsafe: 0
+INFO:root:EVAL: 180000	Ep: 361	Rew: -1.217772912351151	Len: 500	Shield: 276	 Unsafe: 0	Time: 0.027076593399688136
+
+INFO:root:EVAL: 180000	Ep: 361	Rew: -1.2243944498626174	Len: 500	Shield: 323	 Unsafe: 0	Time: 0.02303537979972316
+
+INFO:root:EVAL: 180000	Ep: 361	Rew: -1.241495261888939	Len: 500	Shield: 287	 Unsafe: 0	Time: 0.02780082220083568
+
+INFO:root:EVAL: 180000	Ep: 361	Rew: -1.205702200414688	Len: 500	Shield: 290	 Unsafe: 0	Time: 0.02595200079976348
+
+INFO:root:EVAL: 180000	Ep: 361	Rew: -1.1632323009277648	Len: 500	Shield: 279	 Unsafe: 0	Time: 0.023749127399991268
+
+INFO:root:EVAL: 180000	Ep: 361	Rew: -1.2064227945434132	Len: 500	Shield: 289	 Unsafe: 0	Time: 0.020759647999715525
+
+INFO:root:EVAL: 180000	Ep: 361	Rew: -1.215382748890442	Len: 500	Shield: 345	 Unsafe: 0	Time: 0.022501865799014923
+
+INFO:root:EVAL: 180000	Ep: 361	Rew: -1.1055197859684895	Len: 500	Shield: 287	 Unsafe: 0	Time: 0.026417997999407816
+
+INFO:root:EVAL: 180000	Ep: 361	Rew: -1.1272101087928197	Len: 500	Shield: 283	 Unsafe: 0	Time: 0.027946207800298
+
+INFO:root:EVAL: 180000	Ep: 361	Rew: -1.1645859991007494	Len: 500	Shield: 315	 Unsafe: 2	Time: 0.02589143679960398
+
+INFO:root:EVALAVG: 180000	Ep: 361	RewAvg: -1.1871718562741074	RewStd: 0.04257757654581318	Len: 500.0	Shield: 297.4	 Unsafe: 0.2	Time: 0.025113107999804197
+
+INFO:root:T: 180500	Ep: 361	Rew: -1.20694455588123	Shield: 270	ShieldSteps: 270	Len: 500	Unsafe: 0
+INFO:root:T: 181000	Ep: 362	Rew: -1.213271106572313	Shield: 250	ShieldSteps: 250	Len: 500	Unsafe: 0
+INFO:root:T: 181500	Ep: 363	Rew: -1.2139077284195667	Shield: 299	ShieldSteps: 299	Len: 500	Unsafe: 0
+INFO:root:T: 182000	Ep: 364	Rew: -1.1383621709368756	Shield: 313	ShieldSteps: 313	Len: 500	Unsafe: 0
+INFO:root:T: 182500	Ep: 365	Rew: -1.2086892730838426	Shield: 272	ShieldSteps: 272	Len: 500	Unsafe: 0
+INFO:root:T: 183000	Ep: 366	Rew: -1.2140027012039762	Shield: 300	ShieldSteps: 300	Len: 500	Unsafe: 0
+INFO:root:T: 183500	Ep: 367	Rew: -1.2063525969128825	Shield: 237	ShieldSteps: 237	Len: 500	Unsafe: 0
+INFO:root:T: 184000	Ep: 368	Rew: -1.2105016870898109	Shield: 351	ShieldSteps: 351	Len: 500	Unsafe: 0
+INFO:root:T: 184500	Ep: 369	Rew: -1.2475024069454193	Shield: 287	ShieldSteps: 287	Len: 500	Unsafe: 0
+INFO:root:T: 185000	Ep: 370	Rew: -1.2147136615600898	Shield: 292	ShieldSteps: 292	Len: 500	Unsafe: 0
+INFO:root:T: 185500	Ep: 371	Rew: -1.195861417383672	Shield: 303	ShieldSteps: 303	Len: 500	Unsafe: 0
+INFO:root:T: 186000	Ep: 372	Rew: -1.232454525230863	Shield: 248	ShieldSteps: 248	Len: 500	Unsafe: 0
+INFO:root:T: 186500	Ep: 373	Rew: -1.2274799141219057	Shield: 276	ShieldSteps: 276	Len: 500	Unsafe: 0
+INFO:root:T: 187000	Ep: 374	Rew: -1.2108442059922293	Shield: 332	ShieldSteps: 332	Len: 500	Unsafe: 0
+INFO:root:T: 187500	Ep: 375	Rew: -1.2169173026427105	Shield: 288	ShieldSteps: 288	Len: 500	Unsafe: 0
+INFO:root:T: 188000	Ep: 376	Rew: -1.21185027839002	Shield: 275	ShieldSteps: 275	Len: 500	Unsafe: 0
+INFO:root:T: 188500	Ep: 377	Rew: -1.208496930905649	Shield: 256	ShieldSteps: 256	Len: 500	Unsafe: 0
+INFO:root:T: 189000	Ep: 378	Rew: -1.211468809178784	Shield: 322	ShieldSteps: 322	Len: 500	Unsafe: 0
+INFO:root:T: 189500	Ep: 379	Rew: -1.209544718289454	Shield: 291	ShieldSteps: 291	Len: 500	Unsafe: 0
+INFO:root:T: 190000	Ep: 380	Rew: -1.2384854004089207	Shield: 289	ShieldSteps: 289	Len: 500	Unsafe: 0
+INFO:root:T: 190500	Ep: 381	Rew: -1.3050171657056304	Shield: 284	ShieldSteps: 284	Len: 500	Unsafe: 0
+INFO:root:T: 191000	Ep: 382	Rew: -1.2050346738136966	Shield: 266	ShieldSteps: 266	Len: 500	Unsafe: 0
+INFO:root:T: 191500	Ep: 383	Rew: -1.208456731863831	Shield: 285	ShieldSteps: 285	Len: 500	Unsafe: 0
+INFO:root:T: 192000	Ep: 384	Rew: -1.1133505485697721	Shield: 282	ShieldSteps: 282	Len: 500	Unsafe: 0
+INFO:root:T: 192500	Ep: 385	Rew: -1.1517094404789572	Shield: 323	ShieldSteps: 323	Len: 500	Unsafe: 0
+INFO:root:T: 193000	Ep: 386	Rew: -1.20811113115513	Shield: 252	ShieldSteps: 252	Len: 500	Unsafe: 0
+INFO:root:T: 193500	Ep: 387	Rew: -1.2066949708824612	Shield: 308	ShieldSteps: 308	Len: 500	Unsafe: 0
+INFO:root:T: 194000	Ep: 388	Rew: -1.2081835174862499	Shield: 304	ShieldSteps: 304	Len: 500	Unsafe: 0
+INFO:root:T: 194500	Ep: 389	Rew: -1.20922398153155	Shield: 281	ShieldSteps: 281	Len: 500	Unsafe: 0
+INFO:root:T: 195000	Ep: 390	Rew: -1.2187939187350783	Shield: 252	ShieldSteps: 252	Len: 500	Unsafe: 0
+INFO:root:T: 195500	Ep: 391	Rew: -1.2062552059618374	Shield: 315	ShieldSteps: 315	Len: 500	Unsafe: 0
+INFO:root:T: 196000	Ep: 392	Rew: -1.2135860512455638	Shield: 291	ShieldSteps: 291	Len: 500	Unsafe: 0
+INFO:root:T: 196500	Ep: 393	Rew: -1.2151663141369853	Shield: 257	ShieldSteps: 257	Len: 500	Unsafe: 0
+INFO:root:T: 197000	Ep: 394	Rew: -1.2093929559969492	Shield: 325	ShieldSteps: 325	Len: 500	Unsafe: 0
+INFO:root:T: 197500	Ep: 395	Rew: -1.2047113693925025	Shield: 279	ShieldSteps: 279	Len: 500	Unsafe: 0
+INFO:root:T: 198000	Ep: 396	Rew: -1.1809907796796084	Shield: 309	ShieldSteps: 309	Len: 500	Unsafe: 0
+INFO:root:T: 198500	Ep: 397	Rew: -1.2055491856773162	Shield: 259	ShieldSteps: 259	Len: 500	Unsafe: 0
+INFO:root:T: 199000	Ep: 398	Rew: -1.179962366252696	Shield: 318	ShieldSteps: 318	Len: 500	Unsafe: 0
+INFO:root:T: 199500	Ep: 399	Rew: -1.2091849937989545	Shield: 295	ShieldSteps: 295	Len: 500	Unsafe: 0
+INFO:root:T: 200000	Ep: 400	Rew: -1.2061466219581858	Shield: 289	ShieldSteps: 289	Len: 500	Unsafe: 0
+INFO:root:EVAL: 200000	Ep: 401	Rew: -1.2074289270885046	Len: 500	Shield: 365	 Unsafe: 0	Time: 0.013684919599443674
+
+INFO:root:EVAL: 200000	Ep: 401	Rew: -1.2058910402384684	Len: 500	Shield: 335	 Unsafe: 0	Time: 0.019850910599925557
+
+INFO:root:EVAL: 200000	Ep: 401	Rew: -1.2077680627706642	Len: 500	Shield: 286	 Unsafe: 0	Time: 0.014321825000224634
+
+INFO:root:EVAL: 200000	Ep: 401	Rew: -1.195246455943072	Len: 500	Shield: 343	 Unsafe: 0	Time: 0.01846857800008729
+
+INFO:root:EVAL: 200000	Ep: 401	Rew: -1.209029663312981	Len: 500	Shield: 345	 Unsafe: 0	Time: 0.0173549264005851
+
+INFO:root:EVAL: 200000	Ep: 401	Rew: -1.2077344525557923	Len: 500	Shield: 291	 Unsafe: 0	Time: 0.029053864000365137
+
+INFO:root:EVAL: 200000	Ep: 401	Rew: -1.2472357260730815	Len: 500	Shield: 290	 Unsafe: 0	Time: 0.030494280399987476
+
+INFO:root:EVAL: 200000	Ep: 401	Rew: -1.1350110464409326	Len: 500	Shield: 280	 Unsafe: 0	Time: 0.02998972479987424
+
+INFO:root:EVAL: 200000	Ep: 401	Rew: -1.2135441912416847	Len: 500	Shield: 300	 Unsafe: 0	Time: 0.02860846639960073
+
+INFO:root:EVAL: 200000	Ep: 401	Rew: -1.207626251101424	Len: 500	Shield: 281	 Unsafe: 0	Time: 0.029295791601005476
+
+INFO:root:EVALAVG: 200000	Ep: 401	RewAvg: -1.2036515816766604	RewStd: 0.026224475411655384	Len: 500.0	Shield: 311.6	 Unsafe: 0.0	Time: 0.023112328680109935
+
